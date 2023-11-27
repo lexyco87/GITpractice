@@ -23,5 +23,5 @@ Git structure
 ![image](https://github.com/lexyco87/GITpractice/assets/145125126/a74e873e-b789-499e-8a1f-da6c6dbab51f)
 
 
-Material source: SDA
+Material source: SDA Academy
 
