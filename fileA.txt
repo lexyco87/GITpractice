@@ -1,1 +1,2 @@
-Adding functionality A.
+<<<<<<< HEAD
+Adding functionality A. just adding new info for merging branches.
