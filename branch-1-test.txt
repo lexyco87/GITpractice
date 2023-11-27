@@ -1,1 +1,1 @@
-Adding text to branch-1
+Modifying the branch-1 on branch conflict
