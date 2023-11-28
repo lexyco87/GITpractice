@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 quick repair of error on file A.
+=======
+This is functionality A. 
+>>>>>>> Stashed changes
+=======
+This is functionality A. 
+>>>>>>> Stashed changes
